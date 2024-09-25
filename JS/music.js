@@ -1,4 +1,4 @@
-let audio = new Audio("../Imgs/music.mp3");
+let audio = new Audio("../Imgs/MUSIC.mp3");
 let mButton = document.querySelector("#music-button");
 let enterButton = document.querySelector("#enter-website");
 let isPlaying = false;
